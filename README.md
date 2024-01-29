@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Mohawk-Redefined Website](https://mohawkredefined.org/)
 
-- 🌱 I’m currently learning **Next.js & TypeScript**
+- 🌱 I’m currently learning **Next.js & TypeScript** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/NevilPatel01](https://github.com/NevilPatel01)
 
