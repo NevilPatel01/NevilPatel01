@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nevil Patel</h1>
 <h3 align="center">🌐 Full Stack Web Alchemist & AI Enthusiast 🚀</h3>
 
-- 🔭 I’m currently working on [Mohawk-Redefined Website](https://mohawkredefined.org/)
+- 🔭 I’m currently working on [Mohawk-Redefined Website](https://mohawkredefined.org/) and TND Website
 
 - 🌱 I’m currently learning **Next.js & TypeScript** 
 
