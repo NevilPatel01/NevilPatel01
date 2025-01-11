@@ -2,7 +2,7 @@
 <h3 align="center">🌐 Full Stack Web Alchemist & AI Enthusiast 🚀</h3>
 
 
-- 🌱 I’m currently learning **AI & DSA in JAVA** 
+- 🌱 I’m currently learning **ML & Laravel** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/NevilPatel01](https://github.com/NevilPatel01)
 
