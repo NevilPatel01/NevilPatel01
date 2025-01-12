@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/NevilPatel01](https://github.com/NevilPatel01)
 
-- 💬 Ask me about **React.js, React-Native, Node.js & Python**
+- 💬 Ask me about **React.js, React-Native, Docker & Python**
 
 - 📫 How to reach me **nevilpatelmansa@gmail.com**
 
