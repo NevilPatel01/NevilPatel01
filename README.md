@@ -18,8 +18,8 @@
 - Explore my repositories to see my latest work in App Development and AI/ML
 
 ## 🤝 Let's Connect
-- [LinkedIn](<img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>{:target="_blank"})
-- [Email](<img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail" alt="Email"/>{:target="_blank"})
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nevil-patel-262a74265/)
+- [![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail)](mailto:nevilpatelmansa@gmail.com)
 
 
 <h3 align="left">Languages and Tools:</h3>
