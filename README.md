@@ -81,12 +81,5 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nevilpatel01&show_icons=true&count_private=true&theme=radical" alt="Nevil's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevilpatel01&layout=compact&langs_count=6&theme=radical" alt="Top Languages" width="48%" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nevilpatel01&theme=radical" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-profile-summary-cards.vercel.app/api/cards/profile-details?username=nevilpatel01&theme=radical" alt="Profile Summary" width="48%" />
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nevilpatel01&show_icons=true&locale=en&layout=compact" alt="nevilpatel01" /></p>
