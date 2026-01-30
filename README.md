@@ -1,85 +1,144 @@
 <img src="banner.gif" style="width:100%;opacity:0.3;"></img>
 
-<h1 align="center">Hi there! 👋 I'm Nevil Patel</h1>
+<div align="center">
 
-## 🎓 About Me
-- Currently studying 6th Semester at Mohawk College  
-- Skilled Software Developer & AI Engineer with a keen interest in DevOps Engineering and full-stack development
+# 👨‍💻 Nevil Patel
 
-## 🌱 Currently Learning
-- DevOps Engineering: CI/CD pipelines, Container Orchestration, and Infrastructure as Code  
-- Laravel  
-- Deep Learning  
-- Advanced App Development Techniques  
+### Full-Stack Developer | AI/ML Engineer | Cloud Architect
 
-<h3 align="left">Languages & Tools</h3>
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-nevilpatel.com-4285F4?style=for-the-badge)](https://nevilpatel.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nevil-patel-262a74265/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@nevilpatel.com)
 
-### Frontend
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/>
-  </a>
-</p>
-
-### Backend
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  </a>
-</p>
-
-### Mobile Development  
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-  </a>
-  <a href="https://expo.dev/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/expo-1.svg" alt="Expo" width="40" height="40"/>
-  </a>
-</p>
-
-### DevOps & Tools  
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-</p>
-
-### AI & Machine Learning  
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  </a>
-</p>
+</div>
 
 ---
 
+## 💻 Tech Arsenal
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nevilpatel01&show_icons=true&locale=en&layout=compact" alt="nevilpatel01" /></p>
+<details>
+<summary><b>Frontend</b></summary>
+<br/>
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>Backend & Database</b></summary>
+<br/>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🤖 AI/ML & Data Science</b></summary>
+<br/>
+
+**Languages & Core Libraries:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+**Machine Learning & Deep Learning:**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+**Data Analysis & Visualization:**
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+
+**Certifications:**
+- 🎓 ![Data Literacy](https://www.datacamp.com/skill-verification/DL0031253154490)
+- 🎓 ![AI Fundamentals](https://www.datacamp.com/skill-verification/AIF0023781553894)
+- 🎓 ![AI Engineer for Data Scientists Associate](https://www.datacamp.com/certificate/AEDS0012346953105)
+
+</details>
+
+<details>
+<summary><b>Cloud & DevOps</b></summary>
+<br/>
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)
+
+**Certifications:**
+- ☁️ ![Microsoft Azure AZ-900 Certified](https://learn.microsoft.com/api/credentials/share/en-us/PatelNevilDineshkumarStudent-8081/EF7920F8A3084D0?sharingId)
+
+</details>
+
+<details>
+<summary><b>Tools & Others</b></summary>
+<br/>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+</details>
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NevilPatel01&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NevilPatel01&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NevilPatel01&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🌟 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+## 📬 Get In Touch
+
+💼 Actively seeking **Full-Stack Developer | DevOps | AI/ML Engineer** roles  
+🌍 Open to opportunities across **Canada** (Remote/Hybrid/Onsite)  
+🤖 Interested in roles combining **Web/Mobile Development** with **AI/ML**  
+📧 Best way to reach me: [contact@nevilpatel.com](mailto:contact@nevilpatel.com)  
+🔗 Let's connect: [LinkedIn](https://www.linkedin.com/in/nevil-patel-262a74265/)
+
+---
+
+<div align="center">
+  
+**"I build intelligent applications that solve real problems, integrate AI/ML capabilities, and scale in production."**
+
+![Profile Views](https://komarev.com/ghpvc/?username=NevilPatel01&color=blueviolet&style=flat-square)
+
+</div>
