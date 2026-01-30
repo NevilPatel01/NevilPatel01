@@ -68,9 +68,9 @@
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 
 **Certifications:**
-- 🎓 ![Data Literacy](https://www.datacamp.com/skill-verification/DL0031253154490)
-- 🎓 ![AI Fundamentals](https://www.datacamp.com/skill-verification/AIF0023781553894)
-- 🎓 ![AI Engineer for Data Scientists Associate](https://www.datacamp.com/certificate/AEDS0012346953105)
+- 🎓 [Data Literacy](https://www.datacamp.com/skill-verification/DL0031253154490) - DataCamp
+- 🎓 [AI Fundamentals](https://www.datacamp.com/skill-verification/AIF0023781553894) - DataCamp
+- 🎓 [AI Engineer for Data Scientists Associate](https://www.datacamp.com/certificate/AEDS0012346953105) - DataCamp
 
 </details>
 
@@ -86,7 +86,7 @@
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)
 
 **Certifications:**
-- ☁️ ![Microsoft Azure AZ-900 Certified](https://learn.microsoft.com/api/credentials/share/en-us/PatelNevilDineshkumarStudent-8081/EF7920F8A3084D0?sharingId)
+- ☁️ [Microsoft Azure AZ-900 Certified](https://learn.microsoft.com/api/credentials/share/en-us/PatelNevilDineshkumarStudent-8081/EF7920F8A3084D0?sharingId) - Microsoft
 
 </details>
 
