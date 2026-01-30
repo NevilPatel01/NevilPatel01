@@ -104,15 +104,13 @@
 
 ---
 
-## 📈 GitHub Activity
-
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NevilPatel01&show_icons=true&theme=radical&hide_border=true&count_private=true)
+[![NevilPatel01's GitHub stats](https://github-readme-stats.vercel.app/api?username=NevilPatel01&show_icons=true&theme=radical&hide_border=true&count_private=true&hide=issues,prs&include_all_commits=true)](https://github.com/NevilPatel01)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NevilPatel01&layout=compact&theme=radical&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NevilPatel01&layout=compact&theme=radical&hide_border=true&count_private=true&langs_count=8)](https://github.com/NevilPatel01)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NevilPatel01&theme=radical&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NevilPatel01&theme=radical&hide_border=true&background=0D1117)](https://github.com/NevilPatel01)
 
 </div>
 
