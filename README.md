@@ -16,6 +16,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NevilPatel01&color=blueviolet&style=flat-square)
 </div>
+
 ---
 
 ## 💻 Tech Arsenal
