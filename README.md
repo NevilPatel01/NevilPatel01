@@ -12,6 +12,8 @@
 
 </div>
 
+![Profile Views](https://komarev.com/ghpvc/?username=NevilPatel01&color=blueviolet&style=flat-square)
+
 ---
 
 ## 💻 Tech Arsenal
@@ -136,7 +138,5 @@
 <div align="center">
   
 **"I build intelligent applications that solve real problems, integrate AI/ML capabilities, and scale in production."**
-
-![Profile Views](https://komarev.com/ghpvc/?username=NevilPatel01&color=blueviolet&style=flat-square)
 
 </div>
