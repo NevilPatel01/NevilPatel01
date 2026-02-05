@@ -15,7 +15,6 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NevilPatel01&color=blueviolet&style=flat-square)
-![Azure Certified](https://img.shields.io/badge/AZ--900-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 </div>
 
 ---
