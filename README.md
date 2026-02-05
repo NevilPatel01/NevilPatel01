@@ -4,7 +4,7 @@
 
 # 👨‍💻 Nevil Patel
 
-### Full-Stack Developer | AI/ML Engineer | Cloud Architect
+### Full-Stack Developer | AI/ML Engineer | DevOps Engineer
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-nevilpatel.com-4285F4?style=for-the-badge)](https://nevilpatel.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nevil-patel-262a74265/)
