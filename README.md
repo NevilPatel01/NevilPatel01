@@ -98,7 +98,7 @@
 💼 Actively seeking **DevOps Engineer** or **Full-Stack Developer (DevOps-heavy)** roles  
 🌍 Open to opportunities across **Canada** (Remote/Hybrid/Onsite)  
 🚀 Building scalable cloud systems that drive business impact  
-📧 [contact@nevilpatel.com](mailto:contact@nevilpatel.com)  
+📧 [me@nevil.ca](mailto:me@nevil.ca)  
 🔗 [LinkedIn](https://www.linkedin.com/in/nevil-patel-262a74265/)
 
 ---
